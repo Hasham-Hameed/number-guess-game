@@ -17,7 +17,7 @@ A simple terminal-based number guessing game written in C.
 ```bash
 gcc src/main.c -o game
 ./game
-
+```
 ## Regards
 
 Hasham Hameed
